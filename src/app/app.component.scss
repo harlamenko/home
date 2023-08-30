@@ -1,0 +1,21 @@
+:host {
+  display: block;
+  padding: 1rem;
+}
+
+p + p {
+  margin-top: 1rem;
+}
+
+code {
+  margin-right: calc(1rem / 2);
+  padding: 0 calc(1rem / 6);
+}
+
+footer {
+  margin-top: 4rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
