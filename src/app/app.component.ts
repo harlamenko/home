@@ -13,7 +13,7 @@ import {Component} from '@angular/core';
         <p>In ❤️ with: <code>angular</code> <code>typescript</code><code>scss</code></p>
 
         <footer>
-            <a target="_blank" href="https://career.habr.com/artem-harlamenko/print.pdf">CV</a>
+            <a target="_blank" href="/assets/cv.pdf">CV</a>
             <a target="_blank" href="https://t.me/Harlamenko">telegram</a>
             <a target="_blank" href="mailto:4.harlamenko@gmail.com">email</a>
             <a target="_blank" href="https://github.com/harlamenko">github</a>
